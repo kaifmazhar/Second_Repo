@@ -1,3 +1,5 @@
 Adding a 3rd file from the terminal.
 
 Adding a line from branch1.
+
+Adding a line from branch2
